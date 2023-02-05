@@ -15,7 +15,7 @@
 
 # Помоги набрать [Achievements](https://github.com/zufar-ik?tab=achievements)
 
-# [Кликай сюды!](https://github.com/zufar-ik/DefaultForBot)
+# [Очумительный темплейт для твоего бота!](https://github.com/zufar-ik/BotTemplate)
 
 
 
